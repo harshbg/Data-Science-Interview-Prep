@@ -1,173 +1,42 @@
-## Welcome to GitHub Pages
+![HitCount](http://hits.dwyl.io/harshbg/Data-Science-Interview-Prep.svg)
+![Stars](https://img.shields.io/github/stars/harshbg/Data-Science-Interview-Prep.svg?style=social)
+![Forks](https://img.shields.io/github/forks/harshbg/Data-Science-Interview-Prep.svg?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/harshbg/Data-Science-Interview-Prep.svg)
+[![GitHub](https://img.shields.io/github/license/harshbg/Data-Science-Interview-Prep.svg)](https://choosealicense.com/licenses/mit)
+[![Say Thanks!](https://img.shields.io/badge/Say-Thanks!-yellow.svg)](http://bit.ly/2M0s0Vu)
 
-Testing testing
-### is this working?
+# Data Scientist Interview Preparation
+> I am currently in the process of finding a job as a Data Scientist and will add all the resources that I have found useful in the process. Please star the repository as I'll keep on adding content as I go along. 
 
-[use it today](#harsh).*
+## Table of contents
+* [General info](#general-info)
+* [Technologies and Tools](#technologies-and-tools)
+* [Status](#status)
+* [Contact](#contact)
 
-You can use the [editor on GitHub](https://github.com/harshbg/projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harshbg/projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## General info
+There are a lot of things that a data scientist should know, 
+I will try to add all the resources that I have found useful in preparing for my data science interview. 
+If you are a aspiring data scientist then you can start from here, if you have been for a while in this field then it might be repetition for you, but you will get a lot of things from here.
 
 
-## Harsh
+## Technologies and Tools
+* SQL
+* Python
+* Machine Learning
+
+## Status
+Project is: _in progress_. Feel free to recommend resources that you have found useful. 
 
 
----
-layout: default
----
+## Contact
+Created by me.
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
+just want to shoot a question, please feel free to connect with me on <a href="hello@gupta-harsh.com" target="_blank">email</a>, 
+<a href="http://bit.ly/2uOIUeo" target="_blank">LinkedIn</a>, or 
+<a href="http://bit.ly/2CZv1i5" target="_blank">Twitter</a>. 
+My other projects can be found [here](http://bit.ly/2UlyFgC).
 
 [![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://bit.ly/2HYQaL1)
 [![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](http://bit.ly/2VHxROX)
