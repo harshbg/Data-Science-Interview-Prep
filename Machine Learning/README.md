@@ -3,10 +3,13 @@
 
 # Machine Learning
 
-Machine Learning Process
+*Machine Learning Process*
 
 ![ML Process](./MLProcess.jpg)
 
+*Machine Learning Algorithm Cheatsheet*
+
+![ML Process](./MLAlgorithm.jpg)
 
 ## Contact
 
