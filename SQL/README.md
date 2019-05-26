@@ -1,10 +1,10 @@
 [![Say Thanks!](https://img.shields.io/badge/Say-Thanks!-yellow.svg)](http://bit.ly/2M0s0Vu)
-![HitCount](http://hits.dwyl.io/harshbg/Data-Science-Interview-Prep.svg)
+![HitCount](http://hits.dwyl.io/harshbg/Data-Science-Interview-Prep/tree/master/SQL.svg)
 
 # SQL
 
 
-![SQL Cheatsheet](./SQL/cheatsheet.png)
+![SQL Cheatsheet](./cheatsheet.png)
 
 
 ## Contact

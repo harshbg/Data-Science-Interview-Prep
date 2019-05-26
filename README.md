@@ -1,9 +1,9 @@
-![HitCount](http://hits.dwyl.io/harshbg/Data-Science-Interview-Prep.svg)
 ![Stars](https://img.shields.io/github/stars/harshbg/Data-Science-Interview-Prep.svg?style=social)
 ![Forks](https://img.shields.io/github/forks/harshbg/Data-Science-Interview-Prep.svg?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/harshbg/Data-Science-Interview-Prep.svg)
 [![GitHub](https://img.shields.io/github/license/harshbg/Data-Science-Interview-Prep.svg)](https://choosealicense.com/licenses/mit)
 [![Say Thanks!](https://img.shields.io/badge/Say-Thanks!-yellow.svg)](http://bit.ly/2M0s0Vu)
+![HitCount](http://hits.dwyl.io/harshbg/Data-Science-Interview-Prep.svg)
 
 # Data Scientist Interview Preparation
 > I am currently in the process of finding a job as a Data Scientist and will add all the resources that I have found useful in the process. Please star the repository as I'll keep on adding content as I go along. 
