@@ -9,7 +9,7 @@
 
 *Machine Learning Algorithm Cheatsheet*
 
-![ML Process](./MLAlgorithm.jpg)
+![ML Process](./MLAlgorithm.png)
 
 ## Contact
 
