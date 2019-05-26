@@ -5,7 +5,7 @@
 
 Machine Learning Process
 
-![ML Process](./ML Process.jpg)
+![ML Process](./MLProcess.jpg)
 
 
 ## Contact
