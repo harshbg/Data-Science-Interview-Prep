@@ -21,7 +21,7 @@ If you are a aspiring data scientist then you can start from here, if you have b
 
 
 ## Technologies and Tools
-* SQL
+* [SQL](https://github.com/harshbg/Data-Science-Interview-Prep/tree/master/SQL)
 * Python
 * Machine Learning
 
