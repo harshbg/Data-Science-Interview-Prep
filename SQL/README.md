@@ -6,6 +6,9 @@
 
 ![SQL Cheatsheet](./cheatsheet.png)
 
+![Joins Cheatsheet](./joins.png)
+
+
 
 ## Contact
 
