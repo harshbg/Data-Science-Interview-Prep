@@ -12,6 +12,7 @@
 # Practice Resource
 
 [LeetCode](https://leetcode.com/problemset/database/)
+[Hacker Rank](https://www.hackerrank.com/dashboard)
 
 
 # Useful Snapshots 
