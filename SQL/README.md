@@ -26,10 +26,9 @@ SQL Cheatsheet
 
 <p align="center">
 <img src="sqljoin.PNG">
+</p>
 ![Joins Cheatsheet](./sqljoin.PNG)
 ![Joins Cheatsheet](./sqljoin2.PNG)
-</p>
-
 
 
 
