@@ -23,8 +23,8 @@ SQL Cheatsheet
 JOINS 
 ![Joins Cheatsheet](./joins.png)
 
-![Joins Cheatsheet](./sqljoin.png)
-![Joins Cheatsheet](./sqljoin2.png)
+![Joins Cheatsheet](./sqljoin.PNG)
+![Joins Cheatsheet](./sqljoin2.PNG)
 
 
 
