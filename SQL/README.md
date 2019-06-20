@@ -20,12 +20,13 @@
 SQL Cheatsheet
 ![SQL Cheatsheet](./cheatsheet.png)
 
-JOINS 
-![Joins Cheatsheet](./joins.png)
+
+<p align="center">
 
 ![Joins Cheatsheet](./sqljoin.PNG)
 ![Joins Cheatsheet](./sqljoin2.PNG)
 
+</p>
 
 
 ## Contact
