@@ -20,15 +20,13 @@ Practice questions on [LeetCode](https://leetcode.com/problemset/database/).
 
 ## Useful Snapshots 
 
-SQL Cheatsheet
-![SQL Cheatsheet](./cheatsheet.png)
-
 
 <p align="center">
+<img src="cheatsheet.png">
 <img src="sqljoin.PNG">
+<img src="sqljoin2.PNG">
 </p>
-![Joins Cheatsheet](./sqljoin.PNG)
-![Joins Cheatsheet](./sqljoin2.PNG)
+
 
 
 
