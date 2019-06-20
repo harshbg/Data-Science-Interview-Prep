@@ -23,6 +23,9 @@ SQL Cheatsheet
 JOINS 
 ![Joins Cheatsheet](./joins.png)
 
+![Joins Cheatsheet](./sqljoin.png)
+![Joins Cheatsheet](./sqljoin2.png)
+
 
 
 ## Contact
