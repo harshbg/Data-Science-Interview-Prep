@@ -4,29 +4,33 @@
 # SQL
 
 
-# Videos
+## Videos
+
 
 [SQL Server Interview Questions and Answers](https://www.youtube.com/watch?v=fvPddKyHxpQ&list=PL6n9fhu94yhXcztdLO7i6mdyaegC8CJwR)
 
 
-# Practice Resource
+## Practice Resource
 
-[LeetCode](https://leetcode.com/problemset/database/)
-[Hacker Rank](https://www.hackerrank.com/dashboard)
+Practice questions on [Hacker Rank](https://www.hackerrank.com/dashboard).
+
+Practice questions on [LeetCode](https://leetcode.com/problemset/database/).
 
 
-# Useful Snapshots 
+
+## Useful Snapshots 
 
 SQL Cheatsheet
 ![SQL Cheatsheet](./cheatsheet.png)
 
 
 <p align="center">
-
 ![Joins Cheatsheet](./sqljoin.PNG)
 ![Joins Cheatsheet](./sqljoin2.PNG)
-
 </p>
+
+
+
 
 
 ## Contact
