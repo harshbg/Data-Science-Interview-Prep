@@ -24,6 +24,7 @@ If you are a aspiring data scientist then you can start from here, if you have b
 * [SQL](https://github.com/harshbg/Data-Science-Interview-Prep/tree/master/SQL)
 * [Python](https://github.com/harshbg/Data-Science-Interview-Prep/tree/master/Python)
 * [Machine Learning](https://github.com/harshbg/Data-Science-Interview-Prep/tree/master/Machine%20Learning)
+* [Statistics]()
 
 ## Status
 Project is: _in progress_. Feel free to recommend resources that you have found useful. 
